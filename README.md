@@ -1,4 +1,4 @@
-# atm_machine
+# ATM Machine
 The Basic of how ATM Works
 {Python 3}
 
